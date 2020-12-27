@@ -1,3 +1,5 @@
+Simple github profile finder app. Where you can find all the git hub users and their repos. React Context is used to manage the state of this app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
